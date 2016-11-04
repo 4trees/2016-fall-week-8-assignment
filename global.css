@@ -16,6 +16,7 @@
     box-shadow: 0 2px 2px 0px rgba(0,0,0,.1);
     top:0;
     left:0;
+    opacity:0; 
 }
     .custom-tooltip .title{
         font-size:1.2em;
